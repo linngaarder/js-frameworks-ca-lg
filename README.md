@@ -1,10 +1,8 @@
 Goal
+
 To apply knowledge of React to build an eCom store.
 
 Brief
-The API you are using for this brief is: https://v2.api.noroff.dev/online-shop
-
-You can find individual items by appending a product ID at the end of the API URL e.g. https://v2.api.noroff.dev/online-shop/f99cafd2-bd40-4694-8b33-a6052f36b435
 
 You are tasked with build out the following pages for an eCom store:
 
