@@ -44,20 +44,8 @@ css
 
 ## Getting Started
 
-### Installing
-
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
-
-1. Clone the repo:
-
-git clone git@github.com:linngaarder/js-frameworks-ca-lg.git
-
-2. Install the dependencies:
-
 npm install
 
-### Running
-
-To run the app, run the following commands:
+To run the app:
 
 npm run start
