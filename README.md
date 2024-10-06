@@ -40,7 +40,7 @@ Your code is expected to be clean and well-formatted.
 
 ## Built with
 [React.js](https://reactjs.org/)
-css
+[Bootstrap css](https://getbootstrap.com)
 
 ## Getting Started
 
