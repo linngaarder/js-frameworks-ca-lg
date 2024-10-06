@@ -1,3 +1,5 @@
+##Description
+
 ## Goal
 
 To apply knowledge of React to build an eCom store.
@@ -34,3 +36,28 @@ Your design should be responsive. You are welcome to use a CSS Framework, howeve
 You are not required to use TypeScript.
 
 Your code is expected to be clean and well-formatted.
+
+
+## Built with
+[React.js](https://reactjs.org/)
+css
+
+## Getting Started
+
+### Installing
+
+This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
+
+1. Clone the repo:
+
+git clone git@github.com:linngaarder/js-frameworks-ca-lg.git
+
+2. Install the dependencies:
+
+npm install
+
+### Running
+
+To run the app, run the following commands:
+
+npm run start
