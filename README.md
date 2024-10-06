@@ -1,8 +1,8 @@
-Goal
+## Goal
 
 To apply knowledge of React to build an eCom store.
 
-Brief
+## Brief
 
 You are tasked with build out the following pages for an eCom store:
 
