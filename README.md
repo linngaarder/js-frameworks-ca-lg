@@ -1,4 +1,4 @@
-##Description
+## Description
 
 ## Goal
 
@@ -46,6 +46,6 @@ css
 
 npm install
 
-To run the app:
+## To run the app:
 
 npm run start
