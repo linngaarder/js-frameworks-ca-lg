@@ -2,12 +2,12 @@
 
 I was tasked with build out the following pages for an eCom store:
 
-Homepage
-Individual product page
-Cart page
-Checkout success page
-Contact page
-With be a look-ahead search bar that filters products when typing in a product name. Clicking on a product should take a user to an individual product page
+- Homepage
+- Individual product page
+- Cart page
+- Checkout success page
+- Contact page
+- With be a look-ahead search bar that filters products when typing in a product name. Clicking on a product should take a user to an individual product page
 
 
 ## This site was made using:
